@@ -13,7 +13,6 @@ En esta cuenta de github subiré proyectos personales.
 <hr>
 📫 Contacto:
 
-  📧 xaviermurcia58@gmail.com
-  
+  📧 xaviermurcia58@gmail.com <br>
   💼 [Linkedin].(https://www.linkedin.com/in/xavier-murcia-márquez-327505338)
 
