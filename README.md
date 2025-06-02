@@ -6,7 +6,7 @@ En esta cuenta de github subiré proyectos personales.
 
 <hr>
 
-🚀 Proyectos Destacados
+🚀 Proyectos:
 
 🔧 [Xhosting].(https://github.com/XavierMurcia16/xhosting): Mi trabajo de síntesis de grado medio (smix)
 
