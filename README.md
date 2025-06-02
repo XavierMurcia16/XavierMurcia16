@@ -7,7 +7,7 @@
 
 <h2>🚀 Proyectos:</h2>
 <ul>
-    <li><a href="https://github.com/XavierMurcia16/xhosting">Mi trabajo de síntesis de grado medio (smix)</a></li>
+    <li><a href="https://github.com/XavierMurcia16/xhosting">Xhosting</a>:Mi trabajo de síntesis de grado medio (smix)</li>
 </ul>
 
 <h2>📫 Contacto:</h2>
@@ -16,7 +16,6 @@
         📧 xaviermurcia58@gmail.com
     </li>
     <li>
-        💼 [Linkedin].(https://www.linkedin.com/in/xavier-murcia-márquez-327505338)
+        <a href="https://www.linkedin.com/in/xavier-murcia-márquez-327505338">💼 Linkedin</a>
     </li>
 </ul>
-
