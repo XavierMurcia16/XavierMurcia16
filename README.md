@@ -4,7 +4,7 @@ Soy un estudiante de informatica, centrado en la rama de sistemas y cibersegurid
 actualmente estudio un CFGS de "Administración de sistemas informaticos y redes, perfil profesional de ciberseguridad. 
 En esta cuenta de github subiré proyectos personales.
 
-<hr style="height: 1px;">
+<hr>
 
 🚀 Proyectos Destacados
 
@@ -13,6 +13,6 @@ En esta cuenta de github subiré proyectos personales.
 <hr>
 📫 Contacto:
 
-  📧 xaviermurcia58@gmail.com <br>
-  💼 [Linkedin].(https://www.linkedin.com/in/xavier-murcia-márquez-327505338)
+📧 xaviermurcia58@gmail.com <br>
+💼 [Linkedin].(https://www.linkedin.com/in/xavier-murcia-márquez-327505338)
 
