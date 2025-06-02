@@ -7,7 +7,7 @@
 
 <h2>🚀 Proyectos:</h2>
 <ul>
-    <li><a href="https://github.com/XavierMurcia16/xhosting">Xhosting</a>:Mi trabajo de síntesis de grado medio (smix)</li>
+    <li><a href="https://github.com/XavierMurcia16/xhosting">Xhosting</a>: Mi trabajo de síntesis de grado medio (smix)</li>
 </ul>
 
 <h2>📫 Contacto:</h2>
