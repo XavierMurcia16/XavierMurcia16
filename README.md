@@ -4,7 +4,7 @@ Soy un estudiante de informatica, centrado en la rama de sistemas y cibersegurid
 actualmente estudio un CFGS de "Administración de sistemas informaticos y redes, perfil profesional de ciberseguridad. 
 En esta cuenta de github subiré proyectos personales.
 
-<hr style="border: 1px;">
+<hr style="height: 1px;">
 
 🚀 Proyectos Destacados
 
