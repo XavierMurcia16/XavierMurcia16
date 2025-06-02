@@ -16,6 +16,6 @@
         📧 xaviermurcia58@gmail.com
     </li>
     <li>
-        💼<a href="https://www.linkedin.com/in/xavier-murcia-márquez-327505338"> Linkedin</a>
+        💼 <a href="https://www.linkedin.com/in/xavier-murcia-márquez-327505338">Linkedin</a>
     </li>
 </ul>
