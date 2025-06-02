@@ -11,6 +11,7 @@ En esta cuenta de github subiré proyectos personales.
 🔧 [Xhosting].(https://github.com/XavierMurcia16/xhosting): Mi trabajo de síntesis de grado medio (smix)
 
 <hr>
+
 📫 Contacto:
 
 📧 xaviermurcia58@gmail.com <br>
